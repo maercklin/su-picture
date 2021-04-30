@@ -3,7 +3,7 @@
 # SU-Picture - Example scripts to convert a picture file to CWP/SU format,
 # use it as velocity model for sufdmod2, and create a wave propagation movie
 #
-# 03_Create_Movie.sh - Create wavefield snapshot images and movie (H.264 MP4)
+# 04_Create_Movie.sh - Create wavefield snapshot images and movie (H.264 MP4)
 #-----------------------------------------------------------------------------
 # Nils Maercklin, March 2021
 
